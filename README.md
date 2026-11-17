@@ -1,5 +1,9 @@
 # aix-software-version-manager
 A Python-based application for managing software inventory, installed versions, and upgrade planning across IBM AIX servers.
+## Project Objective
+Develop a centralized software inventory and version management system for IBM AIX environments, enabling organizations to track installed software across multiple servers, identify upgrade requirements, maintain version history, and support infrastructure modernization planning.
+The application will support multiple software products per server, inventory file imports, version compliance tracking, and management reporting.
+
 ## Development Roadmap. 
 ### Phase 1 – Development Environment Setup
 - [x] Create GitHub repository
